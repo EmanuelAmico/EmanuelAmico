@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **emanuelamicoo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14vQlcmCEKVMKMXXyva4FkhqKNyntFJUK/view](https://drive.google.com/file/d/14vQlcmCEKVMKMXXyva4FkhqKNyntFJUK/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xEqQiXNmN7gU67UggStAKum6CUUGyRZD/view](https://drive.google.com/file/d/1xEqQiXNmN7gU67UggStAKum6CUUGyRZD/view)
 
 - ⚡ Fun fact **I love videogames! 🎮**
 
