@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Emanuel Amico</h1>
+<h1 align="center">Hi 👋, I'm Alex Emanuel Amico</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 - 🔭 I’m currently working in **Labtory as a Software Developer**
 
-- 👨‍💻 All of my projects are available at [https://www.amico.com.ar](https://www.amico.com.ar)
+- 👨‍💻 My portfolio is available at [https://www.amico.com.ar](https://www.amico.com.ar)
 
-- 💬 Ask me about **react, react native, redux, node.js, express, postgres, mongodb, JWT, sequelize, mongoose**
+- 💬 Ask me about **typescript, react, react native, next.js, redux, materialUI, node.js, tRPC, express, postgres, mongodb, JWT, prisma, sequelize, mongoose**
 
 - 📫 How to reach me **emanuelamicoo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xEqQiXNmN7gU67UggStAKum6CUUGyRZD/view](https://drive.google.com/file/d/1xEqQiXNmN7gU67UggStAKum6CUUGyRZD/view)
+- 📄 Know about my experience as a web dev [https://drive.google.com/file/d/1xEqQiXNmN7gU67UggStAKum6CUUGyRZD/view](https://drive.google.com/file/d/1xEqQiXNmN7gU67UggStAKum6CUUGyRZD/view)
 
 - ⚡ Fun fact **I love videogames! 🎮**
 
